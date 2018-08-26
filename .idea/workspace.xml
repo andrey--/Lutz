@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6ae2cd5-c882-4a96-84c5-b7a75b779e14" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Lutz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lutz.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generators/Homework_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Generators/Homework_functions.py" afterDir="false" />
     </list>
@@ -16,19 +14,19 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Lutz$Mymap.coverage" NAME="Mymap Coverage Results" MODIFIED="1534681356401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Generators" />
     <SUITE FILE_PATH="coverage/Lutz$Python_3.coverage" NAME="Python 3 Coverage Results" MODIFIED="1532269890758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/Lutz$Homework_functions.coverage" NAME="Homework_functions Coverage Results" MODIFIED="1534696272666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Generators" />
+    <SUITE FILE_PATH="coverage/Lutz$Homework_functions.coverage" NAME="Homework_functions Coverage Results" MODIFIED="1535293693345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Generators" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-174253143">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -43,12 +41,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1115" />
+          <entry key="py" value="1789" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1115" />
+          <entry key="Python" value="1789" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -68,11 +66,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Generators/Homework_functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+            <state relative-caret-position="244">
+              <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
               <folding>
-                <marker date="1534696272584" expanded="true" signature="693:825" ph="..." />
-                <marker date="1534696272584" expanded="true" signature="693:911" ph="..." />
+                <element signature="e#19#195#0" />
+                <element signature="e#222#461#0" />
+                <element signature="e#487#645#0" />
+                <marker date="1535293693008" expanded="true" signature="862:1292" ph="..." />
+                <marker date="1535293693008" expanded="true" signature="1122:1292" ph="..." />
+                <marker date="1535293693008" expanded="true" signature="1470:1530" ph="..." />
               </folding>
             </state>
           </provider>
@@ -106,9 +108,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="125" />
-    <option name="width" value="3150" />
-    <option name="height" value="1510" />
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="3233" />
+    <option name="height" value="1755" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -261,11 +264,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generators/Homework_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+        <state relative-caret-position="244">
+          <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
           <folding>
-            <marker date="1534696272584" expanded="true" signature="693:825" ph="..." />
-            <marker date="1534696272584" expanded="true" signature="693:911" ph="..." />
+            <element signature="e#19#195#0" />
+            <element signature="e#222#461#0" />
+            <element signature="e#487#645#0" />
+            <marker date="1535293693008" expanded="true" signature="862:1292" ph="..." />
+            <marker date="1535293693008" expanded="true" signature="1122:1292" ph="..." />
+            <marker date="1535293693008" expanded="true" signature="1470:1530" ph="..." />
           </folding>
         </state>
       </provider>
