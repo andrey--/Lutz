@@ -59,7 +59,12 @@ def isprime(input):
         print(input, 'is prime')
 
 isprime(1543235325332332)
-
+xxx=[1,2]
+yyy=1
+def printer():
+    print(xxx)
+def printeryyy():
+    print(yyy)
 # print(int(sqrt(15)))
 # isprime(-13)
 # isprime(15003453453453453535)
