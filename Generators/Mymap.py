@@ -10,7 +10,7 @@ def mymap(func, *args):
 
 
 # print(mymap(pow, [3], [2]))
-Homework_functions.xxx[0]=['asdasd']
+Homework_functions.xxx=['asdasd']
 # print(Homework_functions.xxx)
 Homework_functions.yyy='Changes'
 # Homework_functions.printer()

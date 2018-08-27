@@ -1,4 +1,12 @@
-from Homework_functions import xxx, yyy
+# import Mymap
+import Homework_functions
 import Mymap
-print(xxx)
-print(yyy)
+# from Homework_functions import xxx, yyy
+
+
+print(Homework_functions.xxx)
+print(Homework_functions.yyy)
+# Homework_functions.printer()
+# Homework_functions.printeryyy()
+# print(xxx)
+# print(yyy)
