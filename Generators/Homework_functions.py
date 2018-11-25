@@ -58,7 +58,7 @@ def isprime(input):
     else:
         print(input, 'is prime')
 
-isprime(1543235325332332)
+# isprime(1543235325332332)
 xxx=[1,2]
 yyy=1
 def printer():
